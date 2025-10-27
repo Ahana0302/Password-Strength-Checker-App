@@ -23,8 +23,3 @@ Each condition adds to the overall strength score.
 - CSS
 - JavaScript
 
-## 💻 Run Locally
-```bash
-git clone https://github.com/<your-username>/password-strength-checker.git
-cd password-strength-checker
-open index.html
