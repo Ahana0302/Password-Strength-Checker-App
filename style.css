@@ -8,13 +8,14 @@ body {
 }
 
 .container {
-  background: ;blue
+  background: #e6e0ff; /* light purple background */
   padding: 2rem;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
   width: 320px;
   text-align: center;
 }
+
 
 input {
   width: 100%;
