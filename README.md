@@ -18,6 +18,9 @@ The script checks for:
 
 Each condition adds to the overall strength score.
 
+The live site can be visible through the link below:
+https://ahana0302.github.io/Password-Strength-Checker-App/
+
 ## 🛠️ Tech Stack
 - HTML
 - CSS
